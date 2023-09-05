@@ -1,4 +1,4 @@
- [![MasterHead](https://www.webtasarimsistemleri.com/sayfalar/content/web-sitesi-tasarim-sirketi-nedir.jpg)
+![MasterHead](https://www.webtasarimsistemleri.com/sayfalar/content/web-sitesi-tasarim-sirketi-nedir.jpg)
 <h1 align="center">Hi 👋, I'm Cevahir ÇİÇEK AKDİŞ</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
