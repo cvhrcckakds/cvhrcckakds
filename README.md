@@ -20,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cvhrcckakds&show_icons=true&locale=en" alt="cvhrcckakds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cvhrcckakds&" alt="cvhrcckakds" /></p>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Cvhrcckakds&label=Profile%20Views&pretty=false" />
+</a>
