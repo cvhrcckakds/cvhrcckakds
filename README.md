@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cvhrcck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cvhrcck" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cevahir çi̇çek akdi̇ş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cevahir çi̇çek akdi̇ş" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cvhrcckakds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cevahir çi̇çek akdi̇ş" height="30" width="40" /></a>
 <a href="https://instagram.com/cvhrcckakds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cvhrcckakds" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cevahir çiçek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cevahir çiçek" height="30" width="40" /></a>
 </p>
